@@ -55,9 +55,9 @@ switch ($page) {
         break;
 //Feedback
         case 'feedback':
-             $params ['layout'] = 'bux';
-             doFeedbackAction($params,$action);
-             $params['feedback'] = getAllFeedback();
+//              $params ['layout'] = 'bux';
+//              doFeedbackAction($params,$action);
+//              $params['feedback'] = getAllFeedback();
 //        var_dump($params);
 //        die();
             break;
